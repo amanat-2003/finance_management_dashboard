@@ -18,7 +18,7 @@ class NavBar extends StatelessWidget {
       child: Row(
         children: [
           const Expanded(
-            child: AppText(
+            child: FixedText(
               'Dashboard',
               color: Colors.black,
               size: 23,

@@ -106,6 +106,9 @@ class AppColors {
   static const otherBluecolor = Color.fromRGBO(149, 224, 251, 1);
   static const greyColor = Color.fromRGBO(157, 158, 162, 1);
   static const dividerColor = Color.fromARGB(255, 235, 235, 235);
+  static const toolTipBgColor = Color.fromARGB(255, 12, 11, 49);
+  static const lightBlueColor = Color.fromARGB(255, 166,222,248);
+  static const lightBlueStripColor = Color.fromARGB(255, 102,160,244);
   static const positiveNotificationCardBackgroundColor =
       Color.fromARGB(255, 233, 244, 236);
   static const positiveNotificationCardForegroundColor =

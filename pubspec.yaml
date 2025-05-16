@@ -38,6 +38,7 @@ dependencies:
   get: ^4.6.6
   google_fonts: ^6.1.0
   auto_size_text: ^3.0.0
+  fl_chart: ^0.64.0
 
 dev_dependencies:
   flutter_test:
